@@ -27,7 +27,7 @@
 - Languages: C
 
 #### [minitalk](https://github.com/eetukoljonen/minitalk)
-- A UNIX Signal-Based Communication Program implemented in C. This repository comprises a server and a client that communicate using UNIX signals (SIGUSR1 and SIGUSR2). The server supports multiple clients and quickly displays received messages, including Unicode characters.
+- A UNIX Signal-Based Communication Program implemented in C. This repository comprises a server and a client that communicate using UNIX signals (SIGUSR1 and SIGUSR2). The server quickly displays received messages, including Unicode characters.
 - Languages: C
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eetukoljonen&show_icons=true&locale=en&layout=compact" alt="eetukoljonen" /></p>
