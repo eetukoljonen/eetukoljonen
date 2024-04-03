@@ -38,7 +38,7 @@
 
 ### Project Highlights:
 
-#### [ft_irc](https://github.com/AxelBadam/ft_ircW)
+#### [ft_irc](https://github.com/eetukoljonen/ft_irc)
 - Implemented a simple IRC-Server that follows the RFC, this server handles multiple clients and some basic commands.
 - Languages: C++
 
