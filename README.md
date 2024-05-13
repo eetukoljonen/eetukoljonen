@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eetukoljonen&label=Profile%20views&color=0e75b6&style=flat" alt="eetukoljonen" /> </p>
 
-- 🌱 I’m currently learning **Modern C++ and Embedded systems development**
+- 🌱 I’m currently learning **Modern C++ and Embedded Software Development**
 
 - 📫 How to reach me **eetu.koljonen@gmail.com**
 
