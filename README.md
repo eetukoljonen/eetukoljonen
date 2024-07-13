@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **eetu.koljonen@gmail.com**
 
-- 🔨 I’m currently working on [Full Stack Open | University of Helsinki](https://fullstackopen.com/)
+- 🔨 I’m currently working on [Full Stack Open | University of Helsinki](https://github.com/eetukoljonen/fullstackopen)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
