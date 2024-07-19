@@ -52,7 +52,7 @@
 
 ### Project Highlights:
 
-#### [ft_transcendence](https://github.com/TTalvenH/ft_transcendence)
+#### [ft_transcendence](https://github.com/eetukoljonen/ft_transcendence)
 - Developed a full-stack website featuring a Pong game and an original game called Knockoff.
 - Implemented a robust user management system with JSON Web Tokens and two-factor authentication.
 - Built the backend using Django Rest Framework, ensuring secure and efficient data handling.
