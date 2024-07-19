@@ -56,7 +56,7 @@
 - Developed a full-stack website featuring a Pong game and an original game called Knockoff.
 - Implemented a robust user management system with JSON Web Tokens and two-factor authentication.
 - Built the backend using Django Rest Framework, ensuring secure and efficient data handling.
-- Crafted the frontend with vanilla JavaScript, HTML, and CSS for a responsive and interactive user experience.
+- Crafted the frontend with vanilla JavaScript, HTML, and CSS for a interactive user experience.
 - Languages and Technologies: Python (Django), JavaScript, HTML, CSS
 
 #### [ft_irc](https://github.com/eetukoljonen/ft_irc)
