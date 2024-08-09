@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eetukoljonen&label=Profile%20views&color=0e75b6&style=flat" alt="eetukoljonen" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
-
 - 📫 How to reach me **eetu.koljonen@gmail.com**
 
 - 🔨 I’m currently working on [Full Stack Open | University of Helsinki](https://github.com/eetukoljonen/fullstackopen)
