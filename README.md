@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eetu Koljonen</h1>
-<h3 align="center">A student at Hive Helsinki coding school</h3>
+<h3 align="center">Frontend Developer at Sensofusion | Hive Helsinki Alumni</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eetukoljonen&label=Profile%20views&color=0e75b6&style=flat" alt="eetukoljonen" /> </p>
 
 - 📫 How to reach me **eetu.koljonen@gmail.com**
-
-- 🔨 I’m currently working on [Full Stack Open | University of Helsinki](https://github.com/eetukoljonen/fullstackopen)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
